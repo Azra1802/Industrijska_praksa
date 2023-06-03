@@ -1,0 +1,1154 @@
+@import url('http://fonts.cdnfonts.com/css/brandon-grotesque-regular');
+
+
+@media (max-width:1200px) {
+  .redefine{
+    margin-left: 10% !important;
+  }
+}
+
+@media (min-width:992px) {
+    .navbar-expand-lg  .navbar-collapse{
+     width: 100%;
+    }    
+}
+
+@media (max-width:975px) {
+    .three{
+      width: 70% !important;
+    }
+    .threeB-title{
+      min-width: 100px !important;
+      font-size: 20px !important;
+    }
+    .threeB-area{
+      margin-inline: 3px !important
+    }
+
+    .threeB-title{
+      margin-inline: 3px !important
+    }
+
+    .threeBtn{
+
+      font-size: 12px !important;
+      width: 100% !important;
+    }
+
+    .threeBImg{
+      height: 80px;
+      width: 70px !important;
+    }
+
+    .bImg{
+      height: 80px;
+      width: 70px !important;
+    }
+
+    .gridImg1{
+      display: none !important;
+    }
+}
+
+
+
+@media (max-width:920px){
+    .fresh-text{
+        display: none;
+       } 
+
+       .med{
+        margin-bottom: 20% !important;
+        margin-top: 50% !important;
+       }  
+
+       .footer-container{
+        background-image: none !important;
+       }
+
+       .footer-area{
+        margin-inline: 10px !important ;
+        width:95% !important;
+      }
+      
+      .cleanImages{
+        height: 200px !important;
+      }
+
+      .cleanImages img{
+        height: 150px !important;
+        min-width: 150px !important;
+      }
+
+
+   
+       
+}
+
+@media (max-width:685px ) {
+  .navigationBottom{
+    height: 180px !important;
+ }
+
+ .bottomImages{
+   margin-top: 70px !important;
+ }
+ .navigationBottomItems{
+   display: none !important;
+ }
+
+ .line{
+   display: none !important;
+ }
+ .bottomText{
+   display: none !important;
+ }
+
+ .clTxt{
+  font-size: 20px !important;
+ }
+ .review-text{
+  line-height: 4 !important;
+ }
+}
+
+
+@media (max-width:720px ) {
+    .freshImg{
+        padding: 10%;
+    }
+   .so-fresh-text{
+    font-size: 40px !important ;
+    margin-top: -5% !important;
+    margin-bottom: -9% !important;
+   }  
+   .btn-start{
+    width: 130px !important;
+   font-size: 12px !important;
+   }
+
+   .video-area
+{
+  height: 500px !important;
+}
+.video{
+  height: 500px !important;
+}
+.video-text{
+  height: 500px !important;
+}
+
+.areaImg {
+  width: 428px !important;
+  height: 332px !important;
+}
+
+.when{
+  font-size: 48px !important;
+}
+}
+
+nav{
+    font-size: 15px;
+    color: black !important;
+    font-family: bold 'Brandon Grotesque Regular', sans-serif;
+}
+
+.navbar{
+   padding-left: 2%;
+   padding-right: 2%;
+}
+
+.biom-fresh{
+    padding: 1.75%;
+    width: 100%;
+     position: relative;
+    /* UI Properties */
+   
+    }
+
+ .biom-fresh img{
+    width: 100%;
+ }
+
+
+
+  .freshImg{
+    top: 2%;
+    padding-left: 5%;
+    position: absolute;
+    height: 100%;
+     opacity: 1;
+  }
+
+  
+
+  .fresh-text{
+    width: 40%;
+    margin-bottom: 1%;
+    height: fit-content;
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Brandon Grotesque Regular', sans-serif;
+    letter-spacing: 0px;
+    color: #FFFAFA;
+    opacity: 1;
+    }
+    
+    .so-fresh-text{
+    
+        /* Layout Properties */
+   margin-top: 15%;
+    left: 110px;
+    width: 237px;
+    height: 129px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 900 56px Chronicle Display;
+    letter-spacing: 0px;
+    color: #FFFAFA;
+    opacity: 1;
+    
+    }
+
+    .btn-start{
+        width: 180px;
+        margin-bottom: 80%;
+        height: 50px;
+        font-size: 14px;
+        opacity: 1;
+        border-radius: 6px;
+        border-color: #004A4C;
+        border-width: 1px;
+        font-weight: bold;
+        color: #004A4C;
+        text-transform: uppercase;
+        letter-spacing: 1.95px;
+        }
+        
+   .btn-start:hover{
+          background-color: #004A4C;
+          border-color: white;
+          color: white;
+      }   
+
+
+        .white-area{
+    left: 0px;
+    height: 730px;
+    background: transparent url('../img/Mask\ Group\ 12.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.img-slider{
+    height: 600px;
+    max-width: 269px;
+    overflow-y: scroll;
+    overflow: hidden;
+    writing-mode: vertical-lr;
+    text-align: center;
+    font-family: 'Brandon Grotesque Bold';
+    font-size: 225px;
+    text-orientation: revert;
+    color: #F2F2F2;
+    opacity: 1;
+    transform: rotate(-90deg);
+}
+.redefine{
+
+    max-width: 590px;
+    margin-left: 50%;
+    margin-top: 5%;
+    
+    
+  }
+
+ 
+
+
+.nopadd{
+    padding: 0%;
+    margin: 0%;
+}
+
+.disp{
+  text-transform: uppercase;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal normal 14px/62px Brandon Grotesque;
+  letter-spacing: 2.1px;
+  color: #002D33;
+  text-transform: uppercase;
+  opacity: 1;
+  color: #004A4C;
+}
+
+.redef{
+  text-align: left;
+  font: normal normal 900 36px/62px Chronicle Display;
+  letter-spacing: 0px;
+  color: #002D33;
+  opacity: 1;
+}.txt{
+  margin-top: -48px;
+  margin-left: 100px;
+}
+
+.imgTxt{
+  height: 80px;
+  margin-top: 25px;
+  margin-bottom: 2px;
+  color: #002D33;
+  font: normal normal normal 18px/26px Brandon Grotesque;
+  
+}
+
+
+
+.iconImg{
+  width:66px ;
+  margin-right: 10px;
+}
+.qua{
+  text-align: left;
+  font: normal normal normal 18px/28px Brandon Grotesque;
+  letter-spacing: 0px;
+  color: #002D33;
+  opacity: 1;
+}
+.white-area{
+  left: 0px;
+  height: 730px;
+  background: transparent url('../img/Mask\ Group\ 12.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.shop-btn{
+  display: inline-block;
+  background: #004A4C;
+  text-decoration: none;
+  max-width: 160px;
+  color: white;
+  border-radius: 8px;
+  padding: 12.8px 32px 12.8px 32px;
+  margin-top: 28px;
+  text-transform: uppercase;
+  font: normal normal 900 13px/30px Brandon Grotesque;
+  letter-spacing: 1.95px;    
+  transition: 0.45s;
+  }
+  
+  .shop-btn:hover{
+      background-color: white;
+      border-color: #004A4C;
+      color: #004A4C;
+  }
+     
+
+
+
+
+.threeB-area{
+  margin-top: 80px;
+  margin-bottom: 16px;
+  display: flex;
+  justify-content: space-between;
+  margin-inline: 64px;
+  align-items: center;
+}
+
+.threeBImages{
+  display: flex;
+  position: relative;
+}
+
+.threeBImages img{
+
+ 
+  width: 400px;
+  height: 400px;
+  width: 100%;
+  height: auto;
+  transition: 0.25s;
+}
+
+.threeBImages img:hover{
+transform: translate(15%);
+}
+
+.threeBImg{
+  display: flex;
+  align-items: flex-end;
+  position: relative;
+  justify-content: space-between;
+  
+}
+
+.threeBText{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-right: 128px;
+  bottom: 8px;
+  opacity: 0;
+  transition: 0.25s;
+  z-index: 99;
+
+}
+
+
+
+.threeBText h2{
+  font: normal normal 900 18px/33px Brandon Grotesque;
+  letter-spacing: 1.95px;
+  font-weight: bold;
+}
+
+.threeBtn p{
+  text-transform: uppercase;
+  font: normal normal 12px/30px Brandon Grotesque;
+  font-weight: bold;
+}
+
+.threeBtn {
+  padding: 0 0 0 0.9em;
+  border-radius: 6px;
+  border: 1px solid #002D33;
+  border-radius: 6px;
+  opacity: 1;
+  font-size: 16px;
+  color: #004A4C;
+  cursor: pointer;
+  display: inline-flex;
+  justify-content: space-between;
+  font-weight: bold;
+  align-items: center;
+  background: unset;
+  outline: none;
+  width:  353.28px;
+  margin-bottom: 16px;
+}
+.threeBtn span {
+  padding: 16px 14.4px;
+  border-left: 2px solid #004A4C;
+  margin-left: 8px;
+  display: grid;
+  place-items: center;
+  transition: .2s;
+}
+
+.threeB-title {
+  text-align: left;
+  font: normal normal 900 36px/44px Chronicle Display;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;  font-size: 32px;
+  margin-bottom: 16px;
+  min-width: 288px;
+  margin-left: 25px;
+}
+
+.threeB-area button:hover img {
+  transform: translateX(3px);
+}
+
+
+.white-area{
+  background: transparent url('../img/Mask\ Group\ 12.png') 0% 0% no-repeat padding-box;
+  min-height: 754px;
+  max-height: 754px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+
+
+
+.images-area{
+  position: sticky;
+  top: 45.24px;
+  overflow: hidden;
+  margin-top: 32px;
+ 
+}
+
+.images-text{
+ position: absolute;
+ top: 25%;
+ left: 50%;
+ transform: translate(-50%);
+ z-index: 5;
+}
+
+.when{
+text-align: center;
+font: normal normal 900 78px/82px Chronicle Display;
+letter-spacing: -0.78px;
+color: #FFFFFF;
+opacity: 1;
+margin-bottom: 16px;
+}
+
+.where{
+text-align: center;
+font: normal normal normal 16px/23px Brandon Grotesque;
+letter-spacing: 2.4px;
+color: #FFFFFF;
+text-transform: uppercase;
+opacity: 1;
+margin-bottom: 16px;
+}
+
+.imAreaImages{
+ display: flex;
+ align-items: center;
+ position: relative;
+}
+
+.areaImg {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 535px;
+  height: 415px;
+  flex-shrink: 0;
+  overflow: hidden;
+  margin: 1.5em 1em;
+  position: relative;
+  border-radius: 14px;
+  opacity: 1;
+}
+
+.imAreaImages img{
+  max-width: 100%;
+  height: 100%;
+  transition: 0.45s ease-in-out;
+}
+
+.imAreaImages img:hover{
+  transform: scale(1.1);
+}
+
+.areaImg label{
+  position: absolute;
+  bottom: 32px;
+  left: 40%;
+  color: white;
+  font-size: 25.6px;
+  z-index: 99;
+  font: normal normal normal 22px/32px Brandon Grotesque;
+  opacity: 0;
+  transition: 0.45s ease-in-out;
+}
+
+.areaImg:hover label{
+  opacity: 1;
+}
+
+
+
+
+
+.review-area{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #F2F2F2;
+  height: 380px;
+ 
+}
+
+.review-text{
+  max-width: 700px;
+  text-align: center;
+  line-height: 6;
+}
+
+.review-text:first-child{
+  display: block;
+}
+.review-text{
+  display: none;
+}
+
+.whatTxt{
+  text-align: center;
+  font: normal normal normal 14px/62px Brandon Grotesque;
+  letter-spacing: 2.1px;
+  color: #002D33;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.clTxt{
+  text-align: center;
+  font: normal normal bold 25px/42px Chronicle Display;
+  letter-spacing: 0px;
+  color: #002D33;
+  opacity: 1;
+}
+
+.nameTxt{
+  text-align: center;
+  font: normal normal medium 13px/62px Brandon Grotesque;
+  letter-spacing: 1.3px;
+  color: #002D33;
+  text-transform: uppercase;
+  opacity: 1;  
+  }
+  
+.revSlide{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.revSlide span{
+  margin-left: 8px;
+  width: 10px;
+  height: 11.2px;
+  border-radius: 50%;
+  background: transparent;
+  border: 1px solid #004A4C;
+  cursor: pointer;
+}
+
+.revSlide span.active{
+  background: #004A4C;
+  border: 1px solid transparent;
+}
+
+
+
+.grid-area{
+  height: 640px;
+  max-width: 1360px; 
+  margin: 160px auto !important; 
+  float: none !important; 
+  position: relative;
+}
+
+.gridContainer{
+  background: #DAE5E5;
+  width: 100%;
+  height: 560px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.gridItems{
+  max-width: 490px;
+  width: 614.4px;
+  margin-right: 150px; 
+  margin-bottom: 50px;
+}
+
+.gridItems h3{
+  text-align: left;
+  font: normal normal normal 14px/62px Brandon Grotesque;
+  letter-spacing: 2.1px;
+  color: #002D33;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.gridItems h2{
+  text-align: left;
+  font: normal normal 900 36px/44px Chronicle Display;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.gridItems p{
+  text-align: left;
+  font: normal normal normal 18px/28px Brandon Grotesque;
+  letter-spacing: 0px;
+  color: #002D33;
+  opacity: 1;
+  margin-top: 10px;
+}
+
+.gridText img{
+  max-width: 48px;
+  max-height:48px;
+  margin-left: 35px;
+}
+
+.gridText{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-top: 32px;
+  text-align: left;
+  font: normal normal normal 18px/26px Brandon Grotesque;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.gridText li{
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  font: normal normal normal 18px/26px Brandon Grotesque;
+}
+
+.gridBtn{
+  display: inline-block;
+  background: #004A4C;
+  padding: 12.8px 32px 12.8px 32px;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  position: absolute;
+  bottom: 3.32px;
+  text-transform: uppercase;
+  font: normal normal 900 13px/30px Brandon Grotesque;
+  letter-spacing: 1.95px;    
+  transition: 0.45s;
+  margin-left: 35px;
+  margin-bottom: 50px;
+
+}
+
+.gridBtn:hover{
+  background-color: #002D33;
+}
+
+.gridImg1{
+  position: absolute;
+  bottom: 12%;
+  max-width: 496px;
+  max-height: 600px;
+  width: 614.4px;
+  height: 100%;
+  max-height:100%
+}
+
+.gridImg2{
+  position: absolute;
+  bottom: 32px;
+  left: 30%;
+  max-width: 256px;
+  width: 30%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.video-area
+{
+  height: 754px;
+  position: relative;
+  width: 96.5%;
+  margin: 0px auto !important; 
+  float: none !important; 
+  
+}
+
+.video {
+  width: 100%;
+  height: 675px;
+  object-fit: cover;
+  position: absolute;
+  z-index: -1;
+  border-radius: 12px;
+}
+
+.video-text{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 0.32px;
+  height: 754px;
+}
+
+.cleanOc{
+  text-align: center;
+  font: normal normal 900 36px/62px Chronicle Display;
+  letter-spacing: 0px;
+  color: #FFFAFA;
+  opacity: 1;
+}
+
+.wipes{
+  text-align: center;
+  font: normal normal normal 14px/62px Brandon Grotesque;
+  letter-spacing: 2.1px;
+  color: #FFFAFA;
+  text-transform: uppercase;
+  opacity: 1;
+  margin-top: 35px;
+}
+
+.videoTxt{
+  max-width:650px;
+  color: white;
+  line-height: 1.6;
+  font-size: 1.32px;
+  text-align: center;
+  font: normal normal normal 18px/28px Brandon Grotesque;
+  letter-spacing: 0px;
+  color: #FFFAFA;
+  opacity: 1;  }
+
+.learn{
+  background-color: white;
+  text-decoration: none;
+  color: #004A4C;
+  text-transform: uppercase;
+  padding: 16px 32px 16px 32px;
+  border-radius: 4px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  font-weight: bold;
+  border-radius: 6px;
+  opacity: 1;
+  transition: 0.45s;
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+.cleanBiom-area{
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  overflow: hidden;
+}
+
+.cleanBiom-area h2{
+  text-align: center;
+  font: normal normal 900 36px/44px Chronicle Display;
+  letter-spacing: 0px;
+  color: #002D33;
+  opacity: 1;
+  line-height: 3;
+}
+.cleanBiom-area h2::first-letter{
+  font-weight: 100;
+}
+
+.cleanImages{
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  
+  -moz-transform: translateX(-100%);
+  -webkit-transform: translateX(-100%);
+  transform: translateX(-100%);
+  
+  -moz-animation: my-animation2 5s linear infinite;
+  -webkit-animation: my-animation2 5s linear infinite;
+  animation: my-animation2 15s linear infinite;
+
+}
+
+@-webkit-keyframes my-animation2 {
+  from { -webkit-transform: translateX(-100%); }
+  to { -webkit-transform: translateX(100%); }
+}
+
+@keyframes my-animation2 {
+  from {
+    -moz-transform: translateX(-100%);
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+  to {
+    -moz-transform: translateX(100%);
+    -webkit-transform: translateX(100%);
+    transform: translateX(100%);
+  }
+}
+
+.cleanImages img{
+  min-width: 307.2px;
+  text-align: right;
+
+}
+
+.cleanImages img:nth-child(2n+2){
+  margin-top: 32px;
+}
+
+.cleanImages img:nth-child(2n+1){
+  margin-bottom: 32px;
+}
+
+.followBtn{
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase;
+    text-decoration: none;
+    font: normal normal 900 36px/44px Chronicle Display;
+    font-weight: bold;
+    border: 2px solid #004A4C;
+    padding: 0 0 0 0.8em;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #004A4C;
+    cursor: pointer;
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    background: unset;
+    outline: none;
+}
+
+.followBtn span {
+    padding: 16px 14.4px;
+    border-left: 2px solid #004A4C;
+    margin-left: 8px;
+    display: grid;
+    place-items: center; 
+    transition: 0.45s;
+}
+
+.followBtn span:hover{
+  background-color: #004A4C;
+}
+
+.followBtn span:hover img{
+  filter: brightness(0) invert(1);
+}
+
+
+
+
+footer{
+  margin-top: 256px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.footer-container{
+  background-image: url("../img/Biom_wipe_2.png");
+  background-size: contain;
+  background-position: center;
+ 
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+}
+
+.footer-area{
+  position: absolute;
+  top:-160px;
+  background: #F2F2F2;
+  border-radius: 8px;
+  margin-inline: 96px ;
+  z-index: 1;
+  height: 304px;
+  width:85%;
+}
+
+.foterItems{
+  display: flex;
+  flex-direction: column;
+  margin-left: 7%;
+  gap: 16px;
+  max-width: 450px;
+  width: 100%;
+}
+
+.footerItems h2{
+  font-size: 32px;
+  font: normal normal 900 30px/38px Chronicle Display;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  max-width: 310px;
+}
+
+.footerItems p{
+  text-align: left;
+  font: normal normal normal 16px/26px Brandon Grotesque;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  min-width: 110px;
+}
+
+.footerText{
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.footerText input{
+  border-radius: 4px;
+  outline: 0;
+  border: transparent;
+  padding: 16px 32px 16px 32px;
+  width: 100%;
+}
+
+::placeholder {
+  font-size: 16px;
+  font-family:"Brandon Grotesque, Bold";
+}
+
+.footerText span{
+  position: absolute;
+  right: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 8px 11.2px ;
+  background-color: #004A4C;
+}
+
+.footerText span:hover{
+  background-color: #002D33;
+}
+
+.footerText span img:hover{
+  transform: translate(3px);
+}
+
+.footerText span img{
+  transition: 0.25s;
+  filter:  brightness(0) invert(1);
+}
+
+
+
+.navigationBottom{
+  background: #004A4C 0% 0% no-repeat;
+  opacity: 72%;
+  height: 384px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 76.8px;
+  gap: 32px;
+}
+
+.navigationBottomContainer{
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  margin-top: 10%;
+}
+
+.navigationBottom hr{
+  margin-inline: 64px;
+}
+
+.navigationBottomItems{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 16px 48px; 
+}
+
+.navigationBottomText{
+  display: flex;
+  list-style: none;
+  gap: 48px;
+}
+
+.navigationBottomText a{
+  color: white;
+  text-decoration: none;
+  font-size: 1.16px;
+  text-transform: uppercase;
+  font: normal normal bold 14px/20px Brandon Grotesque;
+  letter-spacing: 1.4px;  
+}
+
+.bottom{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-inline: 48px;
+}
+
+.bottom ul{
+  display: flex;
+ 
+}
+
+.bottom li{
+  margin: 16px;
+  font-size: 16px;
+  color: white;
+  font: normal normal normal 15px/22px Brandon Grotesque;  
+}
+
+.bottomImages{
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  margin-right: 25px;
+}
+
+.bottomImg{
+  background-color: white;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+}
+
+.bottomImg img{
+  display: block;
+  margin: auto;
+  margin-top: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
